@@ -29,7 +29,7 @@
   "dependencies": {
     "@clack/prompts": "1.0.0-alpha.1",
     "@hono/zod-validator": "catalog:",
-    "@modelcontextprotocol/sdk": "1.15.1",
+    "@modelcontextprotocol/sdk": "1.24.0",
     "@openauthjs/openauth": "0.4.3",
     "@opencode-ai/plugin": "workspace:*",
     "@opencode-ai/sdk": "workspace:*",
